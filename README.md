@@ -1,4 +1,4 @@
-# haxe-mmvc-default - draft
+# haxe-mmvc-default
 haxe sample with m(masive) mvc. Sample shows how to implement masive mvc pattern in js application.
 
 gulp file has those functions:
