@@ -2,5 +2,6 @@
 -js src/js/index.js
 -main Main
 -D js-flatten
--dce full
--lib msignal
+-lib yloader
+-lib mmvc
+-debug
